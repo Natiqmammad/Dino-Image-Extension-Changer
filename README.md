@@ -25,8 +25,8 @@ sudo apt-get install libx11-dev libgl1-mesa-dev  # Debian/Ubuntu
 Steps
 
 Clone the Repository:
-git clone https://github.com/yourusername/dino-iec.git
-cd dino-iec
+git clone https://github.com/natiqmammad/Dino_Image_Extention_Changer.git
+cd Dino_Image_Extention_Changer
 
 
 Build and Run:
